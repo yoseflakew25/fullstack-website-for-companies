@@ -1,8 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Fullstack website for companies
 
-## Getting Started
-
-First, run the development server:
+[screenshot](https://github.com/yoseflakew25/fullstack-website-for-companies/blob/main/screenshot/Screenshot1.png)
+[screenshot](https://github.com/yoseflakew25/fullstack-website-for-companies/blob/main/screenshot/Screenshot2.png)
+[screenshot](https://github.com/yoseflakew25/fullstack-website-for-companies/blob/main/screenshot/Screenshot3.png)
+[screenshot](https://github.com/yoseflakew25/fullstack-website-for-companies/blob/main/screenshot/Screenshot4.png)
+[screenshot](https://github.com/yoseflakew25/fullstack-website-for-companies/blob/main/screenshot/Screenshot5.png)
+[screenshot](https://github.com/yoseflakew25/fullstack-website-for-companies/blob/main/screenshot/Screenshot6.png)
 
 ```bash
 npm run dev
