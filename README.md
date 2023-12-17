@@ -1,4 +1,4 @@
-## Fullstack website for companies
+## Fullstack general purpose website for companies
 
 ![screenshot1](https://github.com/yoseflakew25/fullstack-website-for-companies/blob/main/screenshot/Screenshot1.png)
 ![screenshot2](https://github.com/yoseflakew25/fullstack-website-for-companies/blob/main/screenshot/Screenshot2.png)
